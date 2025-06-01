@@ -23,7 +23,7 @@ The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing cu
 
 ### System & Security
 
-#### [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) &nbsp;![Grade: 96](https://img.shields.io/badge/96-1?style=flat-square)
+#### [**Born2beroot**](https://github.com/usvapel/born2beroot) &nbsp;![Grade: 96](https://img.shields.io/badge/96-1?style=flat-square)
 > Virtual machine hardening and system administration, including configuration of user and group permissions, firewall rules via **UFW**, and secure **SSH** setup.  
 **Tech:** Bash, Linux, VirtualBox
 

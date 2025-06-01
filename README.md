@@ -4,16 +4,16 @@ Projects completed at Hive Helsinki, a 42 school, focusing on C programming, sys
 
 ### Core C Projects
 
-#### [**libft**](https://github.com/usvapel/libft) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
+#### [**libft**](https://github.com/usvapel/libft) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125-brightgreen?style=plastic)
 > A custom implementation of key components of the **C** standard library, focusing on memory manipulation functions (such as `memcpy`, `memset`), string handling routines (`strlen`, `strcpy`, `strcmp`), and various utility functions for character processing and data conversion. This implementation provides core functionality often used in **C** programming.  
 **Tech:** C, libc
 
-#### [**ft_printf**](https://github.com/usvapel/ft_printf) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
+#### [**ft_printf**](https://github.com/usvapel/ft_printf) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100-brightgreen?style=plastic)
 > Recreation of the `printf` function from scratch, supporting formatted output with variadic arguments.
 Handles basic conversion specifiers including `%s` (string), `%d` and `%i` (signed integers), `%c` (character), `%x` and `%X` (hexadecimal), `%p` (pointer), `%u` (unsigned integer), and literal `%%`.  
 **Tech:** C, Variadic Functions
 
-#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
+#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100-brightgreen?style=plastic)
 > A line-by-line file reader using **static** memory allocation.
 Reads from a file descriptor and returns one line at a time, preserving leftover data between calls via a static buffer.
 The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing customizable performance and memory usage trade-offs.  
@@ -23,7 +23,7 @@ The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing cu
 
 ### System & Security
 
-#### [**Born2beroot**](https://github.com/usvapel/born2beroot) &nbsp;![Grade: 96](https://img.shields.io/badge/96-1?style=flat-square)
+#### [**Born2beroot**](https://github.com/usvapel/born2beroot) &nbsp;![Grade: 96](https://img.shields.io/badge/Grade-96-brightgreen?style=plastic)
 > Virtual machine hardening and system administration, including configuration of user and group permissions, firewall rules via **UFW**, and secure **SSH** setup.  
 **Tech:** Bash, Linux, VirtualBox
 
@@ -31,7 +31,7 @@ The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing cu
 
 ### Graphics & Interactivity
 
-#### [**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
+#### [**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125-brightgreen?style=plastic)
 > A fractal rendering application supporting the **Mandelbrot**, **Julia**, and **Burning Ship** sets, featuring interactive zooming and panning capabilities.
 The program includes dynamic color shifting and displays a secondary **Julia** set visualization that updates in real-time based on the cursor position within the primary **Mandelbrot** or **Burning Ship** fractal.  
 **Tech:** C, MLX42, Graphics Programming

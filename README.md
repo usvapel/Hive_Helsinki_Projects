@@ -1,6 +1,6 @@
 ## Projects
 
-Projects completed at Hive Helsinki, a 42 school, focusing on C programming, system administration, and graphics.
+Projects completed at Hive Helsinki. Focusing on C programming, system administration, and graphics.
 
 ### Core C Projects
 

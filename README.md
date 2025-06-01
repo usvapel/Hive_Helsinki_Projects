@@ -8,7 +8,7 @@ Projects completed at Hive Helsinki, a 42 school, focusing on C programming, sys
 > A custom implementation of key components of the **C** standard library, focusing on memory manipulation functions (such as `memcpy`, `memset`), string handling routines (`strlen`, `strcpy`, `strcmp`), and various utility functions for character processing and data conversion. This implementation provides core functionality often used in **C** programming.  
 **Tech:** C, libc
 
-#### [**printf**](https://github.com/usvapel/printf) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
+#### [**ft_printf**](https://github.com/usvapel/ft_printf) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
 > Recreation of the `printf` function from scratch, supporting formatted output with variadic arguments.
 Handles basic conversion specifiers including `%s` (string), `%d` and `%i` (signed integers), `%c` (character), `%x` and `%X` (hexadecimal), `%p` (pointer), `%u` (unsigned integer), and literal `%%`.  
 **Tech:** C, Variadic Functions

@@ -31,7 +31,7 @@ The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing cu
 
 ### Graphics & Interactivity
 
-[**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding-⭐☆☆-blue?style=plastic)
+[**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding-project-⭐☆☆-blue?style=plastic)
 > A fractal rendering application supporting the **Mandelbrot**, **Julia**, and **Burning Ship** sets, featuring interactive zooming and panning capabilities.
 The program includes dynamic color shifting and displays a secondary **Julia** set visualization that updates in real-time based on the cursor position within the primary **Mandelbrot** or **Burning Ship** fractal.  
 **Tech:** C, MLX42, Graphics Programming

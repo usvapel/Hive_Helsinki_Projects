@@ -13,7 +13,7 @@ Projects completed at Hive Helsinki. Focusing on C programming, system administr
 Handles basic conversion specifiers including `%s` (string), `%d` and `%i` (signed integers), `%c` (character), `%x` and `%X` (hexadecimal), `%p` (pointer), `%u` (unsigned integer), and literal `%%`.  
 **Tech:** C, Variadic Functions
 
-#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100-brightgreen?style=plastic)
+#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 105](https://img.shields.io/badge/Grade-105-brightgreen?style=plastic)
 > A line-by-line file reader using **static** memory allocation.
 Reads from a file descriptor and returns one line at a time, preserving leftover data between calls via a static buffer.
 The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing customizable performance and memory usage trade-offs.  

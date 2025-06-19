@@ -47,7 +47,7 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ### Pipe Implementation
 
-[**pipex**](https://github.com/usvapel/pipex) &nbsp;
+[**pipex**](https://github.com/usvapel/pipex) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)
 > pipex
 
 ---

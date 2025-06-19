@@ -52,17 +52,17 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ---
 
-### philo
+### Threads and mutexes
 
 [**philo**](https://github.com/usvapel/philo) &nbsp;
-> philo
+> Work in progress
 
 ---
 
-### minishell
+### Shell implementation
 
 [**minishell**](https://github.com/usvapel/minishell) &nbsp;
-> minishell
+> Work in progress
 
 ---
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  

@@ -52,4 +52,17 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ---
 
+### philo
+
+[**philo**](https://github.com/usvapel/philo) &nbsp;
+> philo
+
+---
+
+### minishell
+
+[**minishell**](https://github.com/usvapel/minishell) &nbsp;
+> minishell
+
+---
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  

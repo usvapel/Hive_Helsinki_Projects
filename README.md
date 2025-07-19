@@ -30,13 +30,6 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ---
 
-### Algorithms and efficiency
-
-[**push_swap**](https://github.com/usvapel/push_swap) &nbsp;![Grade: 86](https://img.shields.io/badge/Grade-86/100-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)
-> push_swap
-
----
-
 ### Pipe Implementation
 
 [**pipex**](https://github.com/usvapel/pipex) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/100-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)

@@ -46,7 +46,7 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ### Shell implementation
 
-[**minishell**](https://github.com/usvapel/minishell) &nbsp;
+[**minishell**](https://github.com/usvapel/minishell) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/100-brightgreen?style=plastic)
 > Work in progress
 
 ---

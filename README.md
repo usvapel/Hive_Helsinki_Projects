@@ -40,14 +40,14 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 ### Threads and mutexes
 
 [**philo**](https://github.com/usvapel/philo) &nbsp;
-> Work in progress
+> -
 
 ---
 
 ### Shell implementation
 
 [**minishell**](https://github.com/usvapel/minishell) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100/100-brightgreen?style=plastic)
-> Work in progress
+> -
 
 ---
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  

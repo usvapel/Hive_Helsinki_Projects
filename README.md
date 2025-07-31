@@ -33,13 +33,13 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 ### Pipe Implementation
 
 [**pipex**](https://github.com/usvapel/pipex) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/100-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)
-> pipex
+> -
 
 ---
 
 ### Threads and mutexes
 
-[**philo**](https://github.com/usvapel/philo) &nbsp;
+[**philo**](https://github.com/usvapel/philo) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-%3F/100-brightgreen?style=plastic)
 > -
 
 ---

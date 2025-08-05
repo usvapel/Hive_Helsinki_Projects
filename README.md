@@ -39,7 +39,7 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ### Threads and mutexes
 
-[**Philosophers**](https://github.com/usvapel/philo) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100/100-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)
+[**Philosophers**](https://github.com/usvapel/Philosophers) &nbsp;![Grade: 100](https://img.shields.io/badge/Grade-100/100-brightgreen?style=plastic) ![Outstanding project: 1/3](https://img.shields.io/badge/Outstanding%20project-⭐☆☆-blue?style=plastic)
 > -
 
 ---

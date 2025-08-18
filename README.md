@@ -51,3 +51,13 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ---
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  
+
+---
+
+### CPP Modules
+
+[**cpp**](https://github.com/usvapel/cpp) &nbsp;
+> -
+
+---
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  

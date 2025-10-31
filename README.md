@@ -50,3 +50,10 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 > -  
 
 ---
+
+### Raytracer
+
+[**miniRT**](https://github.com/usvapel/miniRT) &nbsp;
+> -  
+
+---

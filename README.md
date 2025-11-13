@@ -53,7 +53,7 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ### Raytracer
 
-[**miniRT**](https://github.com/usvapel/miniRT) &nbsp;
+[**miniRT**](https://github.com/usvapel/minirt) &nbsp;![Grade: 125](https://img.shields.io/badge/Grade-125/125-brightgreen?style=plastic) ![Outstanding project: 2/3](https://img.shields.io/badge/Outstanding%20project-⭐⭐☆-blue?style=plastic)
 > -  
 
 ---
